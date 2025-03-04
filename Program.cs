@@ -113,7 +113,7 @@ namespace MLOOP_L1
                     Console.WriteLine($" x = {targetValue,6:f}: y = {targetResult,6:f}");
                     writeText.WriteLine($"для заданої Y({targetValue,6:f}) = {targetResult,6:f}");
                 }
-                writeText.WriteLine("Розрахував студент Кукоба  Євгеній Анатолійович");
+                writeText.WriteLine("Розрахував студент Кукоба  Євгеній ");
             }
 
             PressAnyKeyToContinue();
